@@ -13,7 +13,7 @@ Data is persisted by the API server using a PostgreSQL database. The client appl
 - A user can view the top five most popular car brands and models in auctions
 
 ### Home page
-!['home-page'](hhttps://github.com/JunqiDu/matchandCatch/blob/main/docs/localhost_3000_.png)
+!['home-page'](https://github.com/JunqiDu/matchandCatch/blob/main/docs/localhost_3000_.png)
 _ The home page of Match and Catch._
 
 ### Past auction page
