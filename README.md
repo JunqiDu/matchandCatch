@@ -1,4 +1,9 @@
 # Match and Catch
+## Developer
+Wo Yong Jeong\
+Junqi (Joseph) Du\
+Mingun Chai
+
 ## Project Description
 
 Match and Catch is a React website for used car buying and auctions.
@@ -80,6 +85,8 @@ __Front-End:__ React, Axios, JSX, HTML, CSS, JavaScript
 
 __Back-End:__ Express, Node.js, PostgreSQL
 
+__Test:__ Jtest
+
 ## Dependencies
 - Axios
 - Classnames
@@ -92,4 +99,5 @@ __Back-End:__ Express, Node.js, PostgreSQL
 - Babel-icon
 - Node-sass
 - Prop-types
-- PostgreSQL
+- PostgreSQL\
+- cookie-session
